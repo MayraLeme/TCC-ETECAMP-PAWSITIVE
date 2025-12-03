@@ -40,7 +40,8 @@ O guia conta com uma parte informativa, abordando os cuidados básicos, alimenta
 8 - Agora basta pesquisar por "“localhost/nome do arquivo" em seu navegador, ir ate a pasta frontend e selecionar pginicial.php.
 
 # Como citar nosso projeto: 
-LEME, Mayra Barroso; BELLAI, Melissa O. Gimenez; SILVA, Talita E. Reiner. A elaboração de um guia online para auxiliar no cuidado de cães e gatos deficientes e idosos na região de Jundiaí. 2025. 40 p.
+LEME, Mayra Barroso; BELLAI, Melissa O. Gimenez; SILVA, Talita E. Reiner. A elaboração de um guia online para auxiliar no cuidado de cães e gatos deficientes e idosos na região de Jundiaí. 2025. 37
+p.
 
 <strong>Copyright @ 2024 Todos os direitos reservados aos autores.</strong>
 
