@@ -22,7 +22,7 @@ O guia conta com uma parte informativa, abordando os cuidados básicos, alimenta
 - PHP Versão 8.4
 - MYSQL versão 8.4
 
-# Imagens do sistema:
+# 🐈Imagens do sistema:
 <img src="https://github.com/MayraLeme/TCC-ETECAMP-PAWSITIVE/blob/main/imagens-read/imagem_2025-12-02_235352491.png?raw=true" alt="Home">
 <img src="https://github.com/MayraLeme/TCC-ETECAMP-PAWSITIVE/blob/main/imagens-read/imagem_2025-12-03_000433312.png?raw=true" alt="adoção">
 <img src="https://github.com/MayraLeme/TCC-ETECAMP-PAWSITIVE/blob/main/imagens-read/imagem_2025-12-03_000607698.png?raw=true" alt="lugares">
@@ -30,7 +30,7 @@ O guia conta com uma parte informativa, abordando os cuidados básicos, alimenta
 <img src="https://github.com/MayraLeme/TCC-ETECAMP-PAWSITIVE/blob/main/imagens-read/imagem_2025-12-02_235905294.png?raw=true" alt="check">
 
 
-# Como executar o projeto:
+# 🦴Como executar o projeto:
 1 - Entre no link a seguir para baixar o Visual Studio Code: https://code.visualstudio.com/ (Baixa o pacote base para seu sistema e siga os passos de instalação)
 
 2 - Entre no link para instalar o xampp: https://www.apachefriends.org/pt_br/download.html (Baixa o pacote base para seu sistema e siga os passos de instalação)
@@ -47,7 +47,7 @@ O guia conta com uma parte informativa, abordando os cuidados básicos, alimenta
 
 8 - Agora basta pesquisar por "“localhost/nome do arquivo" em seu navegador, ir ate a pasta frontend e selecionar pginicial.php.
 
-# Como citar nosso projeto: 
+# 🐈‍⬛Como citar nosso projeto: 
 LEME, Mayra Barroso; BELLAI, Melissa O. Gimenez; SILVA, Talita E. Reiner. A elaboração de um guia online para auxiliar no cuidado de cães e gatos deficientes e idosos na região de Jundiaí. 2025. 37
 p.
 
