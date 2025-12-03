@@ -22,6 +22,9 @@ O guia conta com uma parte informativa, abordando os cuidados básicos, alimenta
 - PHP Versão 8.4
 - MYSQL versão 8.4
 
+# Imagens do sistema:
+!([../imagens-read/home](https://github.com/MayraLeme/TCC-ETECAMP-PAWSITIVE/edit/main/README.md))
+
 # Como executar o projeto:
 1 - Entre no link a seguir para baixar o Visual Studio Code: https://code.visualstudio.com/ (Baixa o pacote base para seu sistema e siga os passos de instalação)
 
