@@ -23,7 +23,8 @@ O guia conta com uma parte informativa, abordando os cuidados básicos, alimenta
 - MYSQL versão 8.4
 
 # Imagens do sistema:
-!([../imagens-read/home](https://github.com/MayraLeme/TCC-ETECAMP-PAWSITIVE/edit/main/README.md))
+<img src="[URL_da_imagem](https://github.com/MayraLeme/TCC-ETECAMP-PAWSITIVE/blob/main/imagens-read/imagem_2025-12-02_235352491.png
+)" alt="Home">
 
 # Como executar o projeto:
 1 - Entre no link a seguir para baixar o Visual Studio Code: https://code.visualstudio.com/ (Baixa o pacote base para seu sistema e siga os passos de instalação)
