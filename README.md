@@ -24,6 +24,11 @@ O guia conta com uma parte informativa, abordando os cuidados básicos, alimenta
 
 # Imagens do sistema:
 <img src="https://github.com/MayraLeme/TCC-ETECAMP-PAWSITIVE/blob/main/imagens-read/imagem_2025-12-02_235352491.png?raw=true" alt="Home">
+<img src="https://github.com/MayraLeme/TCC-ETECAMP-PAWSITIVE/blob/main/imagens-read/imagem_2025-12-02_235352491.png?raw=true" alt="adoção">
+<img src="https://github.com/MayraLeme/TCC-ETECAMP-PAWSITIVE/blob/main/imagens-read/imagem_2025-12-02_235352491.png?raw=true" alt="lugares">
+<img src="https://github.com/MayraLeme/TCC-ETECAMP-PAWSITIVE/blob/main/imagens-read/imagem_2025-12-02_235352491.png?raw=true" alt="cuidados">
+<img src="https://github.com/MayraLeme/TCC-ETECAMP-PAWSITIVE/blob/main/imagens-read/imagem_2025-12-02_235905294.png?raw=true" alt="check">
+
 
 # Como executar o projeto:
 1 - Entre no link a seguir para baixar o Visual Studio Code: https://code.visualstudio.com/ (Baixa o pacote base para seu sistema e siga os passos de instalação)
